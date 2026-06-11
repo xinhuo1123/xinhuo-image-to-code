@@ -1,6 +1,6 @@
 # xinhuo Image to Code
 
-`xinhuo-image-to-code` 是一个面向 AI 编程助手（Codex、Cursor、等）的图片UI设计稿转代码与切图 Skill，目标是把选中的 UI 图片或设计截图按 **750px 画板宽度**进行像素级还原，并导出独立透明 PNG 切图资源。
+`xinhuo-image-to-code` 是一个面向 AI 编程助手（Codex、Cursor、TRAE等）的图片UI设计稿转代码与切图 Skill，目标是把选中的 UI 图片或设计截图按 **750px 画板宽度**进行像素级还原，并导出独立透明 PNG 切图资源。
 
 ## 调用名
 
