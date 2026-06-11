@@ -174,7 +174,7 @@ scripts/compare_images.py reference-750.png render-750.png --json
 然后在对话中调用：
 
 ```text
-使用 $xinhuo-image-to-code 将当前选中的 UI 图片转换为代码，并导出透明 PNG 切图资源。
+使用 $xinhuo-image-to-code 将当前选中的 UI 图片或设计稿转换为代码，并导出透明 PNG 切图资源。
 ```
 
 ## License
