@@ -1,0 +1,4 @@
+interface:
+  display_name: "xinhuo-image-to-code"
+  short_description: "750px pixel-level image-to-code and PNG slicing"
+  default_prompt: "Use $xinhuo-image-to-code to convert the selected UI image into code and export precise transparent PNG assets."
